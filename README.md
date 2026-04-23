@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**SuperGamer2026/SuperGamer2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 20-year-old IT student based in Aleppo, Syria, currently diving deep into the world of software development and Artificial Intelligence.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 **Education:** Currently studying Information Technology.
+- 🎯 **Career Goal:** Aspiring AI Developer.
+- 💻 **Tech Stack:** I enjoy working with **Java**, **C++**, and **Python**.
+- 🛠️ **Current Setup:** Exploring local LLMs (like Llama 3.1) using Ollama.
+- ⚡ **Fun Fact:** I'm a big fan of lightweight tools and efficient workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+- **Languages:** Java, C++, Python, SQL
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures
+- **AI/ML:** Local Model Implementation, Prompt Engineering
+
+### 📈 Current Projects
+- 🔭 I’m currently working on an AI-outfit app for local stores in Aleppo, Syria!
+- 
+### 📫 How to reach me:
+- [[Add your LinkedIn Link]](https://www.linkedin.com/in/sammy-nashed-480aaa318/)
+- nashedsammy@gmail.com
+
+---
+*"The best way to predict the future is to invent it."*
