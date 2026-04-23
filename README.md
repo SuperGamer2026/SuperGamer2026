@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sammy! 👋
 
 I am a 20-year-old IT student based in Aleppo, Syria, currently diving deep into the world of software development and Artificial Intelligence.
 
